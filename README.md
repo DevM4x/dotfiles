@@ -2,7 +2,7 @@
 My Windows Terminal Dotfiles
 
 ### Terminal
-![terminal]("./assets/Terminal.png")
+![terminal](/assets/Terminal.png)
 
 ### Nvim
-![nvim]("./assets/Nvim.png")
+![nvim](/assets/Nvim.png)
